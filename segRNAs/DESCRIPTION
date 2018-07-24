@@ -1,0 +1,14 @@
+Package: segRNAs
+Type: Package
+Title: Compute MSE and NID for segmentation selection
+Version: 0.1.0
+Author: Danilo Dursoniah
+Maintainer: Danilo Dursoniah <ddursoniah@gmail.com>
+Description: Robust RNA-seq data segmentation selection criteria: MSE and NID.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
